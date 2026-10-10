@@ -1,4 +1,0 @@
-TechTonic Project
-Created by: Kanav
-Branch: feature/kanav
-Purpose: Learning Git collaboration
